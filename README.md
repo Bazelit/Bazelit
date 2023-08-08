@@ -1,6 +1,12 @@
-<img src="https://media.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif"/></h1>
-<h1 align="center">Hi there, I'm <a href="https://github.com/Bazelit" target="_blank">David</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+ <img src="https://media.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif" />
+ <h1 align="center">Hi there, I'm <a href="https://github.com/Bazelit" target="_blank">David</a> 
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+</h1>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Medium&pause=1000&color=70A5FD&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBI+am+a+beginner+Frontend+developer">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Medium&pause=1000&color=70A5FD&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBI+am+a+beginner+Frontend+developer)](https://git.io/typing-svg)
 
