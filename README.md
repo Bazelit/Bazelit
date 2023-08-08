@@ -1,3 +1,4 @@
+<img src="https://media.tenor.com/3B6fE1zIaHMAAAAd/hotz-hacker.gif"/></h1>
 <h1 align="center">Hi there, I'm <a href="https://github.com/Bazelit" target="_blank">David</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
