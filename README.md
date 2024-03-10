@@ -36,9 +36,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Bazelit&icon=0&color=3)](https://visitcount.itsvg.in)
-
 
 <!--
  **Bazelit/Bazelit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
