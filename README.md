@@ -43,7 +43,7 @@
 ![Expo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo2.svg)
 
 # 🛠 Tools
-
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
 ![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg)
@@ -52,7 +52,7 @@
 ![AndroidStudio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 ![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+
 
 
 
