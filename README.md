@@ -34,6 +34,7 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg)
+![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
 ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
 ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
