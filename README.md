@@ -30,6 +30,7 @@
 
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg)
