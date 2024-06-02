@@ -48,6 +48,7 @@
 # 🛠 Tools
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
+![Yarn](https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn2.svg)
 ![VisualStudioCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg)
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
