@@ -30,10 +30,9 @@
 
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![RTK Query](https://svgshare.com/i/16y5.svg)
-![React Query](https://svgshare.com/i/16zE.svg)
 ![ReactRouter](https://svgshare.com/i/16xN.svg)
 ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg)
 ![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
@@ -41,7 +40,7 @@
 ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg)
 ![Prettier](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg)
-
+<!-- ![React Query](https://svgshare.com/i/16zE.svg) -->
 # 📱 Mobile
 
 ![React Native](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
