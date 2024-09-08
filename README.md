@@ -33,6 +33,7 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
 ![RTK Query](https://svgshare.com/i/16y5.svg)
+![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
 ![ReactRouter](https://svgshare.com/i/1A9W.svg)
 ![Axios](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg)
 ![Vite.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg)
