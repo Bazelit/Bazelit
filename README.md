@@ -29,6 +29,7 @@
 # 🌐 Front-end
 
 ![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![NextJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
